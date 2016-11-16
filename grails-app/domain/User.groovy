@@ -5,4 +5,5 @@ class User {
     String name
     String password
     String idcards
+    String memos
 }
